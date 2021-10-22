@@ -1,0 +1,139 @@
+body{/*редактирование тела сайта*/
+	margin: 0 auto;
+	background: white;
+}
+header{/*редактирование шапки сайта*/
+	background: #1f2129;
+	white-space: nowrap;
+	justify-content: space-between;
+	width: 100%;
+}
+.logo{/*редактирование блока с логотипом и  блока с номером телефона с кнопкой*/
+	display: flex;
+	align-items:center;
+}
+.logo2-img{/*редактирование картинки логотипа*/
+	width: 25vw;
+	height: 6vw;
+margin: 0 auto;
+}
+.lol {/*редактирование класс с номером тлф,кнопкой и надписью позвоните мне*/
+	display: flex;
+	align-items: center;
+	margin: 0 auto;
+}
+
+.phone{/*редактирование номера тлф*/
+	color: white;
+	font-size:2vw;
+	font-family: Century Gothic, sans-serif;
+}
+.pbutton{/*редактирование кнопки вызова*/
+	height:4vw;
+	margin-left: 5vw;
+	margin-right: 5vw;
+}
+.call1{/*редактирование фразы позвоните мне*/
+	color: white;
+	font-size: 2vw;
+	font-family: Century Gothic, sans-serif;
+}
+h2{/*редактирование заголовков*/
+	color: black;
+  font-family: Century Gothic, sans-serif;
+	text-align: center;
+	font-size: 4vw;
+	margin-bottom: 8vw;
+	margin-top: 8vw;}
+
+    .navbar {/*редактирование меню*/
+		overflow: hidden;
+		background-color: #333;
+	  }
+	  
+	  .navbar a {/*текста внутри одной кнопки*/
+		float: left;
+		font-size: 1.5vw;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+		width:15vw;
+		font-family: Century Gothic, sans-serif;
+
+
+	  }
+	  
+	  .dropdown {/*редактирование класса с выдвижным меню*/
+		float: left;
+		overflow: hidden;
+	  }
+	  
+	  .dropdown .dropbtn {/*редактирование текста внутри выдвижного меню*/
+		font-size: 1.5vw;  
+		border: none;
+		outline: none;
+		color: white;
+		padding: 14px 16px;
+		background-color: inherit;
+		margin: 0;
+		font-family: Century Gothic, sans-serif;
+	  }
+	  
+	  .navbar a:hover, .dropdown:hover .dropbtn {/*эффект наведение на каждую из кнопок выдвижного меню*/
+		background-color: rgb(89, 78, 95);
+	  }
+	  
+	  .dropdown-content {/*редактирование выпадающего меню*/
+		display: none;
+		position: absolute;
+		background-color: #f9f9f9;
+	   width: 29.2vw;
+		box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+		z-index: 1;
+	  }
+	  
+	  .dropdown-content a {/*редактирование текста выпадающего меню*/
+		float: none;
+		color: black;
+		padding: 12px 16px;
+		text-decoration: none;
+		display: block;
+		text-align: left;
+	  }
+	  
+	  .dropdown-content a:hover {/*редактирование эффекта наведение выпадающего меню*/
+		background-color: #ddd;
+		width: 27.2vw;;
+	  }
+	  
+	  .dropdown:hover .dropdown-content {/*редактирование эффекта наведение выпадающего меню*/
+		display: block;
+	  }
+
+      .content{/*редактирование блокаис особенностями транспорта*/
+        display:block;
+        max-width: 70vw;
+            margin: 0 auto;
+            padding-top: 10vw;
+    }
+    .www{/*редактирование текста в блоке*/
+    margin-bottom: 7vw;
+    }
+    .content img{/*редактирование картинки в блоке*/
+        margin-top: 3vw;
+        max-height: 20vw;
+        max-width: 20vw;
+    }
+        h1{/*редактирование заголовков*/
+        color: black;
+        font-family: Century Gothic, sans-serif;
+        text-align: center;
+        font-size: 3.5vw;
+    }
+    p{/*редактирование текста*/
+        color: black;
+        font-family: Century Gothic, sans-serif;
+        font-size: 2.1vw;
+        text-align:justify;
+        text-indent: 6px;}

@@ -1,0 +1,16 @@
+.error{
+    margin: 0 auto;
+}
+.errorimg{
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+    width: 70vw;
+    height: 30vw;
+}
+dt{
+    font-size: 40px;
+}
+p{
+    font-size: 45px;
+}
