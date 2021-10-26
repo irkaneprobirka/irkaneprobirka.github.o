@@ -16,6 +16,7 @@ header{/*редактирование шапки сайта*/
 .hernya{
 	font-size:2px;
 	color:white;
+	z-index: -9999;
 }
 .logo2-img{/*редактирование картинки логотипа*/
 	width: 25vw;
