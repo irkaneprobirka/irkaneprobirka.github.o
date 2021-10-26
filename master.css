@@ -13,6 +13,10 @@ header{/*редактирование шапки сайта*/
 	display: flex;
 	align-items:center;
 }
+.hernya{
+	font-size:2px;
+	color:white;
+}
 .logo2-img{/*редактирование картинки логотипа*/
 	width: 25vw;
 	height: 6vw;
