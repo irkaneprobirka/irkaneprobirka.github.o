@@ -137,51 +137,6 @@ h2{/*редактирование заголовков*/
         font-size: 2.1vw;
         text-align:justify;
         text-indent: 6px;}
-label {/*редактирование кнопок переключателей*/
-		  width:23%;
-		  float:left;
-		  text-align:center;
-		  background:#ffffff;
-		  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
-		  color:#222222;
-		  padding:0.5%;
-		  margin:0.5%;
-		  margin-bottom:30px;
-		  cursor:pointer;
-		  font-size: 2vw;
-		  font-family: Century Gothic, sans-serif;
-		}
-		input[type="radio"][id="blue"]:checked + label {/*цвет при нажатии*/
-		  background:#6666ff;
-		}
-		input[type="radio"][id="blue"]:checked ~ .red, input[type="radio"][id="blue"]:checked ~ .green {/*редактирование смены класса blue*/
-		  width:0;
-		  height:0;
-		  padding:0;
-		  margin:0;
-		  opacity:0;
-		}
-		input[type="radio"][id="red"]:checked + label {
-		  background:#6666ff;
-		}
-		input[type="radio"][id="red"]:checked ~ .blue, input[type="radio"][id="red"]:checked ~ .green {/*редактирование смены класса red*/
-		  width:0;
-		  height:0;
-		  padding:0;
-		  margin:0;
-		  opacity:0;
-		}
-		input[type="radio"][id="green"]:checked + label {
-		  background:#6666ff;
-		}
-		input[type="radio"][id="green"]:checked ~ .blue, input[type="radio"][id="green"]:checked ~ .red {/*редактирование смены класса green*/
-		  width:0;
-		  height:0;
-		  padding:0;
-		  margin:0;
-		  opacity:0;
-		}
-		
 		.tile {/*редактирование одного блока товара*/
 		  width:23%;
 		  float:left;
