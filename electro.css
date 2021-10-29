@@ -141,8 +141,8 @@ h2{/*редактирование заголовков*/
 		  width:23%;
 		  float:left;
 		  transition:all 0s;
-		  margin:0.5%;
-		  padding:0.5%;
+		  margin:0 auto;
+		  padding:20%;
 		  height: 35vw;
 		  background-color: rgb(168, 197, 241);
 		}
