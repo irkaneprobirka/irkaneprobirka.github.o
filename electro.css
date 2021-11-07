@@ -138,7 +138,7 @@ h2{/*редактирование заголовков*/
         text-align:justify;
         text-indent: 6px;}
 		.tile {/*редактирование одного блока товара*/
-		  width:23%;
+		  width:25vw;
 		  float:left;
 		  transition:all 0s;
 		  margin:0 auto;
