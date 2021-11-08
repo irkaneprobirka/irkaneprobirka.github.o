@@ -8,6 +8,9 @@ header{/*редактирование шапки сайта*/
 	justify-content: space-between;
 	width: 100%;
 }
+.iframe{
+	margin: 0 auto;
+}
 .logo{/*редактирование блока с логотипом и  блока с номером телефона с кнопкой*/
 	display: flex;
 	align-items:center;
