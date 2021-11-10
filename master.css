@@ -72,7 +72,7 @@ margin-bottom: 7vw;
 p{/*редактирование текста*/
 	color: black;
 	font-family: Century Gothic, sans-serif;
-	font-size: 2.5vw;
+	font-size: 3vw;
 	text-align:justify;
 	text-indent: 6px;}
 	
@@ -104,7 +104,7 @@ p{/*редактирование текста*/
 	  
 	  .navbar a {/*текста внутри одной кнопки*/
 		float: left;
-		font-size: 1.5vw;
+		font-size: 3vw;
 		color: white;
 		text-align: center;
 		padding: 14px 16px;
@@ -121,7 +121,7 @@ p{/*редактирование текста*/
 	  }
 	  
 	  .dropdown .dropbtn {/*редактирование текста внутри выдвижного меню*/
-		font-size: 1.5vw;  
+		font-size: 3vw;  
 		border: none;
 		outline: none;
 		color: white;
@@ -169,9 +169,9 @@ p{/*редактирование текста*/
 		  display: block;
 	  }
 	  .carousel-wrapper{/*блок со слайдером*/
-		height:25vw;
+		height:40vw;
 		position:relative;
-		width:50vw;
+		width:60vw;
 		margin:0 auto;
 		border: solid 0.1vw;
 	   margin-top: 10vw;
