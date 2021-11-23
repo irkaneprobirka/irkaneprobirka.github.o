@@ -8,6 +8,9 @@ body{/*редактирование тела сайта*/
 	margin-left: 0 auto;
 	margin-right: 0 auto;
 }
+.ya-share2{
+	margin: 0 auto;
+}
 header{/*редактирование шапки сайта*/
 	background: #1f2129;
 	white-space: nowrap;
