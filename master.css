@@ -11,6 +11,10 @@ body{/*редактирование тела сайта*/
 .ya-share2{
 	margin: 0 auto;
 }
+.data-services{
+	height: 10vw;
+	width: 10vw;
+}
 header{/*редактирование шапки сайта*/
 	background: #1f2129;
 	white-space: nowrap;
