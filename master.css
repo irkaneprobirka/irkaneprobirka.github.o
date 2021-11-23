@@ -3,6 +3,11 @@ body{/*редактирование тела сайта*/
 	margin: 0 auto;
 	background: white;
 }
+.main{
+	margin: 0 auto;
+	margin-left: 0 auto;
+	margin-right: 0 auto;
+}
 header{/*редактирование шапки сайта*/
 	background: #1f2129;
 	white-space: nowrap;
